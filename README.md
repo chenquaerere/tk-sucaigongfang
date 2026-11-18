@@ -5,7 +5,7 @@
 客户端启动时会读：
 
 ```
-https://raw.githubusercontent.com/chenquaerere/tk素材工坊/main/update.json
+https://raw.githubusercontent.com/chenquaerere/tk-sucaigongfang/main/update.json
 ```
 
 清单字段：
