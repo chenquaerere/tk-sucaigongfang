@@ -1,6 +1,6 @@
 {
   "version": "1.9.21",
-  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "notes": "19 页 × 深浅两套全量可读性审计后修复：次要文字对比度 2.95→4.6、danger 按钮白底白字、禁用态不可见、重复 id",
   "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.21",
   "asset_name": "TKStudio-1.9.21-cover.zip",
   "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.21/TKStudio-1.9.21-cover.zip",
