@@ -1,6 +1,6 @@
 {
   "version": "1.9.16",
-  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "notes": "壁纸改为存成文件（runtime/appearance/wall.*），重启后一定恢复；修复大图因 localStorage 写不进去导致背景丢失",
   "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.16",
   "asset_name": "TKStudio-1.9.16-cover.zip",
   "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.16/TKStudio-1.9.16-cover.zip",
