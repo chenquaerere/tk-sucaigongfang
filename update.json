@@ -2,10 +2,10 @@
   "version": "1.9.6",
   "published_at": "2026-11-18T15:30:00+08:00",
   "notes": "1. 登录页页脚精简，新增卡密购买联系方式\n2. 设置页移除残留的手机设备连接板块\n3. 会员套餐新增购买联系入口",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/v1.9.6",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.6/TK素材工坊-覆盖包-v1.9.6-20261118.zip",
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.6",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.6/TKStudio-1.9.6-cover.zip",
   "sha256": "801ca275076e49bc1d46ec5d16c854d90b44fd634b44581bd2ba42f0a5630a00",
-  "size": 36430158,
+  "size": 36429722,
   "min_version": "1.5.0",
-  "asset_name": "TK素材工坊-覆盖包-v1.9.6-20261118.zip"
+  "asset_name": "TKStudio-1.9.6-cover.zip"
 }
