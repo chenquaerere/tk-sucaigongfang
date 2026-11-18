@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8",
+  "version": "1.9.9",
   "published_at": "2026-11-18T16:06:18+08:00",
-  "notes": "设置页「软件更新」可手动检测并打开发布页\n启动后自动检查，有新版本弹提示（同版本只提示一次）\n更新清单优先读 GitHub latest 提交，避开 raw CDN 缓存\n界面细节与文案微调",
+  "notes": "这是升级提示的演示：\n1. 启动后自动检测到新版本\n2. 弹窗列出本次更新内容\n3. 点「去下载」跳到发布页",
   "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.8",
   "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.8/TKStudio-1.9.8-cover.zip",
   "sha256": "c514cce771e3d0168dfe6fa45b65a5da38fd844392545754fe25a886feb424be",
