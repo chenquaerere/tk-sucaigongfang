@@ -1,9 +1,9 @@
 {
-  "version": "1.9.15",
-  "notes": "修掉壁纸被压两遍（::before+::after）：内容区/卡片/壳层分级透明，浅色也能看到照片；底栏不再被盖住；图表提示框不再乱飘",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.15",
-  "asset_name": "TKStudio-1.9.15-cover.zip",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.15/TKStudio-1.9.15-cover.zip",
-  "sha256": "0222399eb2d32a8da0bd4a082addb2f6e3638e67b363dbb13690c086b0dd7387",
-  "size": 36448349
+  "version": "1.9.16",
+  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.16",
+  "asset_name": "TKStudio-1.9.16-cover.zip",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.16/TKStudio-1.9.16-cover.zip",
+  "sha256": "45c0eebe6dab918f1f73b8440e34415abdcc8b3d0208a8198ac3bdcbc5ea01e1",
+  "size": 36449376
 }
