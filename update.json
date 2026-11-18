@@ -1,6 +1,6 @@
 {
   "version": "1.9.17",
-  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "notes": "壁纸模式下提高玻璃厚度与文字对比：侧栏菜单用正文色、壳层加轻阴影、底部状态提一档，照片再亮也看得清",
   "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.17",
   "asset_name": "TKStudio-1.9.17-cover.zip",
   "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.17/TKStudio-1.9.17-cover.zip",
