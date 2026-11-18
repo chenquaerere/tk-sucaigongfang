@@ -1,11 +1,11 @@
 {
-  "version": "1.9.8",
-  "published_at": "2026-11-18T16:06:18+08:00",
-  "notes": "设置页「软件更新」可手动检测并打开发布页\n启动后自动检查，有新版本弹提示（同版本只提示一次）\n更新清单优先读 GitHub latest 提交，避开 raw CDN 缓存\n界面细节与文案微调",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.8",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.8/TKStudio-1.9.8-cover.zip",
-  "sha256": "c514cce771e3d0168dfe6fa45b65a5da38fd844392545754fe25a886feb424be",
-  "size": 36436324,
+  "version": "1.9.9",
+  "published_at": "2026-11-18T16:29:50+08:00",
+  "notes": "应用内更新：点「立即更新」直接下载并重启安装，不再跳浏览器\n设置页显示下载进度与速度\n下载后自动校验 sha256，损坏包直接丢弃\n更新清单优先读 GitHub latest 提交",
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.9",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.9/TKStudio-1.9.9-cover.zip",
+  "sha256": "a64d69afa57112e7e173ac6b4d649f60dcc6d980fc8d020c46c59b5d5a431f14",
+  "size": 36440582,
   "min_version": "1.5.0",
-  "asset_name": "TKStudio-1.9.8-cover.zip"
+  "asset_name": "TKStudio-1.9.9-cover.zip"
 }
