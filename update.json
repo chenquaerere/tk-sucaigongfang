@@ -1,9 +1,9 @@
 {
-  "version": "1.9.11",
-  "notes": "设置新增独立的「软件更新」分区；点立即更新后弹窗内直接显示下载进度；自定义背景改为全局生效（侧栏/顶栏/卡片统一玻璃质感）；修复安装器在受限进程组里起不来的问题",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.11",
-  "asset_name": "TKStudio-1.9.11-cover.zip",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.11/TKStudio-1.9.11-cover.zip",
-  "sha256": "8822f0805b5b92ab04c78ebb18f29380c0067ebfd19c1beeaf1a7ff195e97eb4",
-  "size": 36443111
+  "version": "1.9.12",
+  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.12",
+  "asset_name": "TKStudio-1.9.12-cover.zip",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.12/TKStudio-1.9.12-cover.zip",
+  "sha256": "6b79a76cd3b87f1215f17da08b7ef30da335043ac6db831f3eaaeaaf1d4e0bdd",
+  "size": 36445170
 }
