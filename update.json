@@ -1,9 +1,9 @@
 {
-  "version": "1.9.18",
-  "notes": "可读性审计修复：次要文字对比度从 2.95 提到 4.6，禁用按钮不再透明到看不见，修掉会员输入框重复 id",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.18",
-  "asset_name": "TKStudio-1.9.18-cover.zip",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.18/TKStudio-1.9.18-cover.zip",
-  "sha256": "355f8de12d60db97032d776c917bd40bf2cdd852c13ab78920cff743bdb5287a",
-  "size": 36450472
+  "version": "1.9.19",
+  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.19",
+  "asset_name": "TKStudio-1.9.19-cover.zip",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.19/TKStudio-1.9.19-cover.zip",
+  "sha256": "dcbe8d22172a0b3c9158fe9f1270bedf1c3a6f4b5f401f3873343b5ce971e653",
+  "size": 36450553
 }
