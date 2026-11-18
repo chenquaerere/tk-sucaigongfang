@@ -1,6 +1,6 @@
 {
   "version": "1.9.22",
-  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "notes": "P0 半在线授权：新增授权票状态机（正常/待续期/离线宽限/已过期/已冻结/维护中/服务不可达/设备超限）+ 设置页「授权状态」演示按钮",
   "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.22",
   "asset_name": "TKStudio-1.9.22-cover.zip",
   "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.22/TKStudio-1.9.22-cover.zip",
