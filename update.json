@@ -1,11 +1,9 @@
 {
-  "version": "1.9.9",
-  "published_at": "2026-11-18T16:29:50+08:00",
-  "notes": "应用内更新：点「立即更新」直接下载并重启安装，不再跳浏览器\n设置页显示下载进度与速度\n下载后自动校验 sha256，损坏包直接丢弃\n更新清单优先读 GitHub latest 提交",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.9",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.9/TKStudio-1.9.9-cover.zip",
-  "sha256": "a64d69afa57112e7e173ac6b4d649f60dcc6d980fc8d020c46c59b5d5a431f14",
-  "size": 36440582,
-  "min_version": "1.5.0",
-  "asset_name": "TKStudio-1.9.9-cover.zip"
+  "version": "1.9.11",
+  "notes": "设置新增独立的「软件更新」分区；点立即更新后弹窗内直接显示下载进度；自定义背景改为全局生效（侧栏/顶栏/卡片统一玻璃质感）；修复安装器在受限进程组里起不来的问题",
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.11",
+  "asset_name": "TKStudio-1.9.11-cover.zip",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.11/TKStudio-1.9.11-cover.zip",
+  "sha256": "8822f0805b5b92ab04c78ebb18f29380c0067ebfd19c1beeaf1a7ff195e97eb4",
+  "size": 36443111
 }
