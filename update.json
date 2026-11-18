@@ -1,11 +1,11 @@
 {
   "version": "1.9.7",
-  "published_at": "2026-11-18T15:45:38+08:00",
-  "notes": "设置页新增「软件更新」，可手动检测\n启动后自动检查更新，有新版弹提示\n更新走 GitHub 清单，不经过任何服务器\n登录页页脚精简、设置页移除手机设备连接、会员套餐新增购买联系方式",
+  "published_at": "2026-11-18T15:55:28+08:00",
+  "notes": "设置页新增「软件更新」，可手动检测\n启动后自动检查更新，有新版弹提示\n更新走 GitHub 清单（优先 latest 提交），不经过任何服务器\n登录页页脚精简、设置页移除手机设备连接、会员套餐新增购买联系方式",
   "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.7",
   "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.7/TKStudio-1.9.7-cover.zip",
-  "sha256": "0c27ac13ebdfed618f04374f4b65c94cf4ebeb73e83bb41604114f17e9ae7ba9",
-  "size": 36436244,
+  "sha256": "582a0ab15005c9348bd5618b1d0cb21068b7ba6d2328c0de8211412bc1c17f98",
+  "size": 36436178,
   "min_version": "1.5.0",
   "asset_name": "TKStudio-1.9.7-cover.zip"
 }
