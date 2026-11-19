@@ -1,13 +1,12 @@
 {
-  "version": "1.9.36",
-  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.36",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.36/TKStudio-1.9.36-cover.zip",
-  "size": 37805210,
-  "sha256": "c8e5945658cd58637ec657b4a73b7ad1c88c096bbab12d34f0cb37c2d17a780b",
-  "notes": "换卡后界面自动刷新",
+  "version": "1.9.37",
+  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.37",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.37/TKStudio-1.9.37-cover.zip",
+  "size": 37805286,
+  "sha256": "f549338968dc620a2e539076d2ed78b8172b7cdbc21db102cf878b6446559710",
+  "notes": "登录后立即显示真实到期时间",
   "notes_lines": [
-    "换卡/续期后自动刷新界面，到期时间不再滞后",
-    "修复「激活这张卡」按钮只做动画不生效的问题",
-    "会员页按钮 id 不再重复"
+    "输入卡密登录后整页重载，到期时间不再滞后",
+    "1 分钟卡登录后即为 1 分钟，无需点刷新"
   ]
 }
