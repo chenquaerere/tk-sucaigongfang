@@ -2,12 +2,12 @@
   "version": "1.9.35",
   "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.35",
   "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.35/TKStudio-1.9.35-cover.zip",
-  "size": 37804601,
-  "sha256": "d4bbeef5d2b5a46261b76c5a713facd320d68d17051ad0d3c92935cb34ee2b97",
-  "notes": "侧栏间距放松（行高 38px / 分组 16px）、标题栏跟随主题明暗",
+  "size": 37804707,
+  "sha256": "32c59916564928cfc233ec08e722c3db12a7994cb4f2449d208b2673ece1f759",
+  "notes": "侧栏间距放松（34px 行高 + 5px 间隔 + 18px 分组距）、标题栏跟随主题",
   "notes_lines": [
-    "左侧栏行高 34→38px，分组间距 4→16px，一屏不再挤成一团",
-    "窗口标题栏跟随主题：深色主题下不再出现白边",
-    "标题栏颜色随自定义强调色/主题切换实时刷新"
+    "左侧栏行距/分组距加大，一屏不再挤成一团",
+    "窗口标题栏跟随主题：深色下不再有白边",
+    "标题栏随主题切换实时刷新"
   ]
 }
