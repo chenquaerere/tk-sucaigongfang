@@ -1,18 +1,13 @@
 {
-  "version": "1.9.33",
-  "notes": "会员页新增客服二维码；左侧导航字体（YaHei UI 13.5px）与悬停动效、提示浮层、页面淡入",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.32",
-  "asset_name": "TKStudio-1.9.32-cover.zip",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.32/TKStudio-1.9.32-cover.zip",
-  "sha256": "b8251eb4cf70702efa5707f18d0a6ad6c46f3c9fb763da84c7f2be9cc52f8263",
-  "size": 37294877,
-  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.33",
-  "assets": [
-    {
-      "name": "TKStudio-1.9.33-cover.zip",
-      "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.33/TKStudio-1.9.33-cover.zip",
-      "size": 37802374,
-      "sha256": "fd20751105b852f0d3ffcc68dd2019c531b36a88865a0a41ff47ddf43b0ee704"
-    }
+  "version": "1.9.34",
+  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.34",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.34/TKStudio-1.9.34-cover.zip",
+  "size": 37803148,
+  "sha256": "230a228a16072d665925bc78d548a883362de50590e448232c2e34a46e93ddb0",
+  "notes": "侧栏字号 14px + 满色文字（浅色 16.7:1 / 深色 13.4:1）；换卡入口在未授权时也能渲染",
+  "notes_lines": [
+    "左侧栏文字改为 14px 满色（浅色 16.7:1、深色 13.4:1）",
+    "分组标题独立色阶，壁纸模式下侧栏更实",
+    "会员页换卡入口在未授权时也会渲染"
   ]
 }
