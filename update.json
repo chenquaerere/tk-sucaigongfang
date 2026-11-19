@@ -1,13 +1,14 @@
 {
-  "version": "1.9.39",
-  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.39",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.39/TKStudio-1.9.39-cover.zip",
-  "size": 37809283,
-  "sha256": "77555269dfc605fe2e3cb7290c9c70be058bc59ef52256f76dd9bdfb8b3cc001",
-  "notes": "地区清单扩充 + 自定义地区 + 导入后计数实时更新",
+  "version": "1.9.40",
+  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.40",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.40/TKStudio-1.9.40-cover.zip",
+  "size": 37810684,
+  "sha256": "65ea97234d2d6b78618e7f8127188fc2976e719c1a3b7f5a307c0ce109c09c0c",
+  "notes": "昵称自动补齐 + 缺失功能键补齐",
   "notes_lines": [
-    "地区从 10 个扩到 74 个（含沙特/阿联酋/日本/韩国/印度/英国/巴西等）",
-    "账号管理新增「地区管理」，可自定义添加/删除地区",
-    "批量导入账号后地区计数立即更新"
+    "导入账号后自动获取昵称，不用再手动点",
+    "「刷新昵称」常驻可见，不再藏在勾选条里",
+    "抖音聊天页补「清空 / 导出」",
+    "素材库显示图片/视频数量"
   ]
 }
