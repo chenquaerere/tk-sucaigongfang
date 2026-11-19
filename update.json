@@ -1,9 +1,9 @@
 {
-  "version": "1.9.31",
+  "version": "1.9.32",
   "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
-  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.31",
-  "asset_name": "TKStudio-1.9.31-cover.zip",
-  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.31/TKStudio-1.9.31-cover.zip",
-  "sha256": "2cfd1026d0a6b77992de67e63014d865c15be036e0b6b4301e847d19677accf0",
-  "size": 37293840
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.32",
+  "asset_name": "TKStudio-1.9.32-cover.zip",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.32/TKStudio-1.9.32-cover.zip",
+  "sha256": "b8251eb4cf70702efa5707f18d0a6ad6c46f3c9fb763da84c7f2be9cc52f8263",
+  "size": 37294877
 }
