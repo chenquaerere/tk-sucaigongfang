@@ -1,9 +1,18 @@
 {
-  "version": "1.9.32",
-  "notes": "自定义背景改为从壁纸取色的玻璃壳层，顶栏/命令条/底栏/侧栏统一；上传壁纸后自动计算亮度并套用合适参数，新增「自动适配」；软件更新独立分区与弹窗内进度条（承接 1.9.11）",
+  "version": "1.9.33",
+  "notes": "会员页新增客服二维码；左侧导航字体（YaHei UI 13.5px）与悬停动效、提示浮层、页面淡入",
   "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.32",
   "asset_name": "TKStudio-1.9.32-cover.zip",
   "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.32/TKStudio-1.9.32-cover.zip",
   "sha256": "b8251eb4cf70702efa5707f18d0a6ad6c46f3c9fb763da84c7f2be9cc52f8263",
-  "size": 37294877
+  "size": 37294877,
+  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.33",
+  "assets": [
+    {
+      "name": "TKStudio-1.9.33-cover.zip",
+      "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.33/TKStudio-1.9.33-cover.zip",
+      "size": 37802374,
+      "sha256": "fd20751105b852f0d3ffcc68dd2019c531b36a88865a0a41ff47ddf43b0ee704"
+    }
+  ]
 }
