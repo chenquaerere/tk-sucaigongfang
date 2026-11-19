@@ -1,12 +1,12 @@
 {
-  "version": "1.9.37",
-  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.37",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.37/TKStudio-1.9.37-cover.zip",
-  "size": 37805286,
-  "sha256": "f549338968dc620a2e539076d2ed78b8172b7cdbc21db102cf878b6446559710",
-  "notes": "登录后立即显示真实到期时间",
+  "version": "1.9.38",
+  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.38",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.38/TKStudio-1.9.38-cover.zip",
+  "size": 37805643,
+  "sha256": "10565f4e5a59ebfc35673cac22b000bf81942a9f336e5ece6ba430c738ad6a69",
+  "notes": "会话列表撑满窗口高度",
   "notes_lines": [
-    "输入卡密登录后整页重载，到期时间不再滞后",
-    "1 分钟卡登录后即为 1 分钟，无需点刷新"
+    "好友/群聊会话列表占满剩余高度，一屏多看 4~5 行",
+    "TikTok 与抖音两个采集页都生效"
   ]
 }
