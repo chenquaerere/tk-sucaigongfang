@@ -1,12 +1,13 @@
 {
-  "version": "1.9.38",
-  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.38",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.38/TKStudio-1.9.38-cover.zip",
-  "size": 37805643,
-  "sha256": "10565f4e5a59ebfc35673cac22b000bf81942a9f336e5ece6ba430c738ad6a69",
-  "notes": "会话列表撑满窗口高度",
+  "version": "1.9.39",
+  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.39",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.39/TKStudio-1.9.39-cover.zip",
+  "size": 37809283,
+  "sha256": "77555269dfc605fe2e3cb7290c9c70be058bc59ef52256f76dd9bdfb8b3cc001",
+  "notes": "地区清单扩充 + 自定义地区 + 导入后计数实时更新",
   "notes_lines": [
-    "好友/群聊会话列表占满剩余高度，一屏多看 4~5 行",
-    "TikTok 与抖音两个采集页都生效"
+    "地区从 10 个扩到 74 个（含沙特/阿联酋/日本/韩国/印度/英国/巴西等）",
+    "账号管理新增「地区管理」，可自定义添加/删除地区",
+    "批量导入账号后地区计数立即更新"
   ]
 }
