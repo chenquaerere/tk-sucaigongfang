@@ -1,14 +1,13 @@
 {
-  "version": "1.9.40",
-  "page": "https://github.com/chenquaerere/tk-sucaigongfang/releases/tag/v1.9.40",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.40/TKStudio-1.9.40-cover.zip",
-  "size": 37810684,
-  "sha256": "65ea97234d2d6b78618e7f8127188fc2976e719c1a3b7f5a307c0ce109c09c0c",
-  "notes": "昵称自动补齐 + 缺失功能键补齐",
+  "version": "1.9.41",
+  "latest": "1.9.41",
+  "size": 37812485,
+  "sha256": "ddc2667080c88500ebda25aa7863184d66761520be66900b4146a1626d725ca4",
+  "notes": "聊天采集防漏：进会话先定位最新、卡片全入队、失败自动重试",
   "notes_lines": [
-    "导入账号后自动获取昵称，不用再手动点",
-    "「刷新昵称」常驻可见，不再藏在勾选条里",
-    "抖音聊天页补「清空 / 导出」",
-    "素材库显示图片/视频数量"
+    "1. 进入会话先跳到最新消息再向上收集（过去会漏掉最近新发的作品）",
+    "2. 一轮露出的卡片全部排队解析（过去只解析够数的前几条，其余永久跳过）",
+    "3. 解析失败自动重试两次（接口 429/超时不再算「没有这条」）",
+    "4. 到底判定改为「无新卡片 + 滚动条不再变化」"
   ]
 }
