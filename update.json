@@ -1,8 +1,8 @@
 {
-  "version": "1.9.45",
-  "latest": "1.9.45",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.45/TKStudio-1.9.45-cover.zip",
-  "size": 37818892,
-  "sha256": "13e9033f35348c70300360ccdb69331f9e69c204d893d96fc2950a22a770bf16",
-  "notes": "模型下载 4 个源 + 段级续传；校验失败自动重下。"
+  "version": "1.9.46",
+  "latest": "1.9.46",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.46/TKStudio-1.9.46-cover.zip",
+  "size": 37821176,
+  "sha256": "bc46232587c9dce8798ee5c08904a6b707eb5b0f9b42c3c9f5eaf44a5cfe3ec7",
+  "notes": "采集任务少条/拿老作品修复：最新性校验自动重采 + 空屏收工放宽 + 丢弃条目计入诊断 + shortfall 点名。"
 }
