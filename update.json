@@ -2,7 +2,7 @@
   "version": "1.9.46",
   "latest": "1.9.46",
   "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.46/TKStudio-1.9.46-cover.zip",
-  "size": 37821176,
-  "sha256": "bc46232587c9dce8798ee5c08904a6b707eb5b0f9b42c3c9f5eaf44a5cfe3ec7",
+  "size": 37821259,
+  "sha256": "d1b603fdb2dc2b9cfce491878f1be395c0c55d8b25f83b2504744602f322ba20",
   "notes": "采集任务少条/拿老作品修复：最新性校验自动重采 + 空屏收工放宽 + 丢弃条目计入诊断 + shortfall 点名。"
 }
