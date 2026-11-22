@@ -1,8 +1,13 @@
 {
-  "version": "1.9.48",
-  "latest": "1.9.48",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.48/TKStudio-1.9.48-cover.zip",
-  "size": 37827772,
-  "sha256": "b0ad5a49b090790a0d65f61bc516951e0f583338847fdac2062f6f76403b3572",
-  "notes": "账号管理批量导入后自动获取昵称；修复连续两次昵称/采集任务报 cannot switch to a different thread。"
+  "version": "1.9.49",
+  "latest": "1.9.49",
+  "notes": "账号管理批量导入后自动获取昵称；修复连续两次昵称/采集任务报 cannot switch to a different thread。",
+  "published_at": "2026-11-22T16:05:00+08:00",
+  "cover": {
+    "size": 37832427,
+    "sha256": "230ccd753f7734b253693c01853f79e5ed9eb9eaa5729372c02d7cc510461053",
+    "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.49/TKStudio-1.9.49-cover.zip"
+  },
+  "size": 37832427,
+  "sha256": "230ccd753f7734b253693c01853f79e5ed9eb9eaa5729372c02d7cc510461053"
 }
