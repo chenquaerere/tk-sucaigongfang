@@ -1,8 +1,8 @@
 {
-  "version": "1.9.47",
-  "latest": "1.9.47",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.47/TKStudio-1.9.47-cover.zip",
-  "size": 37824966,
-  "sha256": "e4a6f986d47f095702cc3f7a4a917acaff761368db641b9a89bd2df83329e628",
-  "notes": "采集任务地区可多选（越南+泰国 等组合），面板勾选、账号列表与开始采集都按多地区生效。"
+  "version": "1.9.48",
+  "latest": "1.9.48",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.48/TKStudio-1.9.48-cover.zip",
+  "size": 37827772,
+  "sha256": "b0ad5a49b090790a0d65f61bc516951e0f583338847fdac2062f6f76403b3572",
+  "notes": "账号管理批量导入后自动获取昵称；修复连续两次昵称/采集任务报 cannot switch to a different thread。"
 }
