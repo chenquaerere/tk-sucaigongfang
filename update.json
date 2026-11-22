@@ -2,7 +2,7 @@
   "version": "1.9.47",
   "latest": "1.9.47",
   "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.47/TKStudio-1.9.47-cover.zip",
-  "size": 37824667,
-  "sha256": "f20ab13a579f4a42b0a5bbcfddf368fb400991ab010b1f0accf7e08a9bafe4d5",
+  "size": 37824966,
+  "sha256": "e4a6f986d47f095702cc3f7a4a917acaff761368db641b9a89bd2df83329e628",
   "notes": "采集任务地区可多选（越南+泰国 等组合），面板勾选、账号列表与开始采集都按多地区生效。"
 }
