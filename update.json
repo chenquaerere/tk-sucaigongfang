@@ -1,13 +1,1 @@
-{
-  "version": "1.9.50",
-  "latest": "1.9.50",
-  "notes": "账号管理批量导入后自动获取昵称；修复连续两次昵称/采集任务报 cannot switch to a different thread。",
-  "published_at": "2026-11-22T16:05:00+08:00",
-  "cover": {
-    "size": 37834918,
-    "sha256": "fb5ae1c58fbb119fffa600bd0f99ce65b8291ecc378f19b923604bb1e7ed93c9",
-    "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.50/TKStudio-1.9.50-cover.zip"
-  },
-  "size": 37834918,
-  "sha256": "fb5ae1c58fbb119fffa600bd0f99ce65b8291ecc378f19b923604bb1e7ed93c9"
-}
+{"version":"1.9.51","latest":"1.9.51","size":37836732,"sha256":"9c40b175891f773be681b27fb285fc778ed2e137f3deb5e9c876318f45196412","asset":"TKStudio-1.9.51-cover.zip","notes":"采集任务卡住/游客态修正"}
