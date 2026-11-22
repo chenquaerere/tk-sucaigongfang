@@ -1,8 +1,8 @@
 {
-  "version": "1.9.46",
-  "latest": "1.9.46",
-  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.46/TKStudio-1.9.46-cover.zip",
-  "size": 37821625,
-  "sha256": "d1b603fdb2dc2b9cfce491878f1be395c0c55d8b25f83b2504744602f322ba20",
-  "notes": "采集任务少条/拿老作品修复：最新性校验自动重采 + 空屏收工放宽 + 丢弃条目计入诊断 + shortfall 点名。"
+  "version": "1.9.47",
+  "latest": "1.9.47",
+  "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.47/TKStudio-1.9.47-cover.zip",
+  "size": 37824667,
+  "sha256": "f20ab13a579f4a42b0a5bbcfddf368fb400991ab010b1f0accf7e08a9bafe4d5",
+  "notes": "采集任务地区可多选（越南+泰国 等组合），面板勾选、账号列表与开始采集都按多地区生效。"
 }
