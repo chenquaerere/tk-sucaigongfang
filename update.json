@@ -1,13 +1,13 @@
 {
-  "version": "1.9.49",
-  "latest": "1.9.49",
+  "version": "1.9.50",
+  "latest": "1.9.50",
   "notes": "账号管理批量导入后自动获取昵称；修复连续两次昵称/采集任务报 cannot switch to a different thread。",
   "published_at": "2026-11-22T16:05:00+08:00",
   "cover": {
-    "size": 37832889,
-    "sha256": "e4a278ea91e890b5308a87db59b0a599b0e690a306e834c1bc0fa8780d97272c",
-    "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.49/TKStudio-1.9.49-cover.zip"
+    "size": 37834918,
+    "sha256": "fb5ae1c58fbb119fffa600bd0f99ce65b8291ecc378f19b923604bb1e7ed93c9",
+    "url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.50/TKStudio-1.9.50-cover.zip"
   },
-  "size": 37832889,
-  "sha256": "e4a278ea91e890b5308a87db59b0a599b0e690a306e834c1bc0fa8780d97272c"
+  "size": 37834918,
+  "sha256": "fb5ae1c58fbb119fffa600bd0f99ce65b8291ecc378f19b923604bb1e7ed93c9"
 }
