@@ -1,1 +1,19 @@
-{"version":"1.9.59","latest":"1.9.59","size":37845484,"sha256":"0f4a044a52f336a83699d06ec8b71b8f66d560728dc04f5c62dd7e18e69f0ba9","asset":"TKStudio-1.9.59-cover.zip"}
+{
+  "version": "1.9.60",
+  "latest": "1.9.60",
+  "notes": "v1.9.60：更新机制：坏版本必弹、跨版本变更聚合、发布前门禁；_app/server/update_github.py：新增 critical_state(manifest, current)，check() 输出 critical / critical_below / critical_versions；_app/frontend/js/update.js：critical 时忽略「同一版本只弹一次」、标题改「必须更新到 vX」、顶部红条 #upd-critical、按钮「稍后再说」；theme-components.css 加 .upd-critical / .upd-critical-note；scripts/make_update_manifest.py（新）：从 CHANGELOG 聚合区间说明（去 markdown 记号）、写 size/sha256/asset_url/page_url/critical_\nv1.9.59：采集提速（单号 12s → 约 5.5s）+ 失败原因直接可见；profile_collector.py：首屏等待从「盲等 4s」改为事件驱动 _wait_first_batch（队列非空即走，下限 300ms，上限 8s）；bootstrap.py：新增 _interval_seconds()，账号间隔默认 4.0→1.2，旧默认值自动迁移，自定义值保留；profile_collector.py：新增 _warm_up_if_cold()，空会话先落一次首页 cookie 再进主页，降低首采空响应\nv1.9.58：修：单个账号未登录导致整批账号被中止（12 个号 → 完成 0、中止 11）；根因：会话按账号隔离（data/sessions/<账号>），熔断却按\"全局登录态失效\"处理 —— 任一号回游客态即 _abort_reason，后续账号全部 skipped；collector/collect/engine.py：；新增 _account_has_session(acc)（会话目录内是否有文件）\nv1.9.57：致命修复：采集任务在新版完全不可用（TypeError）；根因：server/collector_api.py 的 POST /collect 已改为 args=(job, accounts, target_date, task_note)（v1.9.52 加的任务备注），而 _collect_worker 定义仍是 3 参 → 线程启动即 TypeError: _collect_worker() takes 3 positional arguments but 4 were given，tk.log 里表现为 CRITICAL root 子线程未捕获异常；影响面：v1.9.52 / 1.9.53 / 1.9.54 / 1.9.55 / 1.9.56 所有构建的「采集任务」全部失效；旧安装 D:\\Tiktok-去水印（1.9.5x 之前）不受影响，所以出现「旧版能用新版用不了」；修复：_collect_worker(job, accounts, target_date, task_note: str = \"\")",
+  "size": 37847064,
+  "sha256": "40f4fdebda9f322ed57de92f4e79692024891b0bb986b3d189de9bee635aa4ba",
+  "asset": "TKStudio-1.9.60-cover.zip",
+  "asset_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/download/v1.9.60/TKStudio-1.9.60-cover.zip",
+  "page_url": "https://github.com/chenquaerere/tk-sucaigongfang/releases/latest",
+  "published_at": "2026-11-24T13:37:24+08:00",
+  "critical_below": "1.9.57",
+  "critical_versions": [
+    "1.9.52",
+    "1.9.53",
+    "1.9.54",
+    "1.9.55",
+    "1.9.56"
+  ]
+}
